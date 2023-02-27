@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akmsyfulalom" alt="akmsyfulalom" /></a> </p>
 
-- 🔭 I’m currently working on [Resale Furniture Store](https://resale-furniture-store.web.app/)
+- 🔭 I’m currently working on [Reult - Rise](https://resultrise.vercel.app/)
 
 - 🌱 I’m currently learning **React JS, Express JS, NPM, MongoDB**
 
