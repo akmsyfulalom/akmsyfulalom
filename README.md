@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akmsyfulalom" alt="akmsyfulalom" /></a> </p>
 
-- 🔭 I’m currently working on [Reult - Rise](https://resultrise.vercel.app/)
+- 🔭 I’m currently working on [Electric Drift Trike](https://electricdrifttrike.vercel.app/)
 
-- 🌱 I’m currently learning **React JS, Express JS, NPM, MongoDB**
+- 🌱 I’m currently learning **React JS, Express JS, MongoDB**
 
 - 👯 I’m looking to collaborate on [Solution Master](https://solutionmaster.co.uk/)
 
